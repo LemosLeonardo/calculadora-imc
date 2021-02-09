@@ -1,0 +1,38 @@
+.Informacoes .texto {
+    overflow-y: scroll !important;
+    height: 70vh;
+}
+
+/* width */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: rgb(37, 37, 37);
+}
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(0, 0, 0);
+}
+
+.Informacoes p {
+    text-align: justify;
+    padding: 20px;
+}
+
+.Informacoes a {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,33 @@
+.Inicio label{
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+}
+.Inicio input{
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid rgba(155, 155, 155, 0.867);
+    height: 30px;
+}
+.Inicio input:focus{
+    border: 1px solid black;
+    border-radius: 10px;
+    outline: none;
+}
+.Inicio button{
+    background-color: rgb(66, 66, 66);
+    border: 3px solid rgb(61, 61, 61);
+    font-weight: bold;
+    color: white;
+    margin-top: 40px;
+    width: 200px;
+    height: 30px;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    outline: none;
+}
+.Inicio button:active{
+    background-color: rgb(36, 36, 36);
+    border: none;
+    outline: none;
+}

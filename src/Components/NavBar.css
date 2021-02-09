@@ -1,0 +1,23 @@
+.NavBar{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    /* border-bottom: 1px solid black; */
+
+}
+.NavBar img{
+ float: left;
+ width: 25px;
+}
+.NavBar a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 30px;
+    transition: 0.3s ease-in;
+    border-bottom: 0 solid black ;
+}
+.NavBar a:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: 0.3s ease-out;
+}
