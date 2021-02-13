@@ -9,7 +9,7 @@ Esta aplicação foi desenvolvida em React Js com a finalidade de calcular o Ín
 ## Como utilizar
 Para utilizar esta aplicação, você deverá seguir estes passos:
 
-  1 - Fazer o <a href="https://github.com/LemosLeonardo/calculadoraReactJs/archive/main.zip"> download </a> do repositório.  
+  1 - Fazer o <a href="https://github.com/LemosLeonardo/calculadora-imc/archive/main.zip"> download </a> do repositório.  
   
   2- Abrir o terminal no repositório baixado e executar o comando `npm i` para instalar as dependências utilizadas no projeto. 
   
