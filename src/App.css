@@ -1,22 +1,23 @@
+
 body {
-    background-image: url('./images//background.png');
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    width: 100%;
-    overflow: hidden;
-    -webkit-touch-callout: none;
+    background-image: url('./images//background.png') !important;  
+    background-position: top !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 100vh !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    -webkit-touch-callout: none !important;
     /* iPhone OS, Safari */
-    -webkit-user-select: none;
+    -webkit-user-select: none !important;
     /* Chrome, Safari 3 */
-    -khtml-user-select: none;
+    -khtml-user-select: none !important;
     /* Safari 2 */
-    -moz-user-select: none;
+    -moz-user-select: none !important;
     /* Firefox */
-    -ms-user-select: none;
+    -ms-user-select: none !important;
     /* IE10+ */
-    user-select: none;
+    user-select: none !important;
     /* Possível implementação no futuro */
 }
 
@@ -29,9 +30,6 @@ body {
     top: 0;
 }
 
-* {
-    font-family: 'Roboto', sans-serif;
-}
 
 .center {
     margin: 0;
